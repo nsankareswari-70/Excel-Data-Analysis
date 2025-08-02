@@ -7,3 +7,4 @@
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/6e0b24e8ce473079c1072f459502b1a092c105a5/ex33.png)
 ## Excel Sorting (Numbers)
 ### Sorting Numbers in ascending order
+![image alt]()
