@@ -16,3 +16,6 @@
 
 ### Sorting the range of cells
 
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/36ff676357c6081550fde70f856492e549b09a4c/ex37.png)
+
+#### After sorting
