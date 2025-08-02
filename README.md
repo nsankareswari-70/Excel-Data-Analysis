@@ -14,4 +14,5 @@
 ### Sorting Numbers in descending order
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/c9a7789a058ba0dc5cfe86dd38ed320bee2cfa22/ex36.png)
 
-### Sorting range of cells
+### Sorting the range of cells
+
