@@ -12,4 +12,4 @@
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/35de87b008a65583ba469442754c2d1bc42b935c/ex35.png)
 
 ### Sorting Numbers in descending order
-
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/c9a7789a058ba0dc5cfe86dd38ed320bee2cfa22/ex36.png)
