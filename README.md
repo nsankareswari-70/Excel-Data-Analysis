@@ -62,3 +62,6 @@ values > "Gyarados" wil be highlighed in green.
 values < 55 in Attack column
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/e747fceb248a70625fdbe46914c3d12ce77dc797/ex49.png)
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/e747fceb248a70625fdbe46914c3d12ce77dc797/ex50.png)
+
+## Highlight Cell Rule - Less Than Example (with Text)
+values < water is highlighted
