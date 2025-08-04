@@ -88,3 +88,6 @@ Highlight Cell Rule - A Date Occurring - Next month ( current month = 'August')
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/1a6aedb31b9cd301b9368c1c2caf0d7e4417eba9/ex57.png)
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/1a6aedb31b9cd301b9368c1c2caf0d7e4417eba9/ex58.png)
 
+## Highlighting duplicate values
+
+
