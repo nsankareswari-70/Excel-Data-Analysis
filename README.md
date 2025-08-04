@@ -93,6 +93,7 @@ Highlight Cell Rule - A Date Occurring - Next month ( current month = 'August')
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/6c43ce54b0a6965de45354555036b9be7402d17b/ex60.png)
 
 ## Highlighting Unique values
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/6c43ce54b0a6965de45354555036b9be7402d17b/ex61.png)
 
 
 
