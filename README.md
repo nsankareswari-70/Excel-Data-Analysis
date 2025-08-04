@@ -41,3 +41,6 @@ After removing duplicates
 Lowest value is displayed with red color and the highest value is displayed with green color.
 
 ## Highlight Cell Rule =
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/17333e572ea7a591e263a5713dc53d23f9437771/ex44.png)
+
+Values = 48 is highlighted with yellow color
