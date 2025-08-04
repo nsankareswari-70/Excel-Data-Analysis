@@ -53,4 +53,8 @@ values greater than 65 is highlighted with green background and green text
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/3b66bcebdb663efb7d3c7bcd4976b94f4b94e4e2/ex47.png)
 
 ## Highlight Cell Rule - Greater Than Example (with Text)
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/735a6bcd0393e25485c39bde3ae39c8f3a6497a8/ex48.png)
+
+values > "Gyarados" wil be highlighed in green.
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/735a6bcd0393e25485c39bde3ae39c8f3a6497a8/ex49.png)
 
