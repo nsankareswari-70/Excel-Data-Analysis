@@ -65,3 +65,7 @@ values < 55 in Attack column
 
 ## Highlight Cell Rule - Less Than Example (with Text)
 values < water is highlighted
+
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/78d51313604cff5a90589df11410860a2def80cf/ex51.png)
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/78d51313604cff5a90589df11410860a2def80cf/ex52.png)
+
