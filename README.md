@@ -82,3 +82,4 @@ the specified value will be "Pidge".
 The Text That Contains... Highlight Cell Rule will highlight cells that have values with any part matching the specified value.
 works for numbers too
 
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/73163e1b039878f7e2ed49ad8fc5d04480f80401/ex56.png)
