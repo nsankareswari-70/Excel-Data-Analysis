@@ -114,5 +114,5 @@ The sorting function helps us to verify the top 5 and bottom 5 in a clear way
 ## Data Bars
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/fba0040b2f96af7bf83a8037e4203585aabf519d/ex68.png)
 
-
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/3aeb7ccdae93f412beea67b8ee32ca920e79861d/ex69.png)
 
