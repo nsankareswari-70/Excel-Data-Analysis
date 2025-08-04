@@ -73,3 +73,7 @@ values < water is highlighted
 values between 79 and 100 is highlighted
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/d2df80fb9efefb9cf9aede6c209c1f21ba8f84ce/ex53.png)
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/d2df80fb9efefb9cf9aede6c209c1f21ba8f84ce/ex54.png)
+
+## Highlight Cell Rules - Text That Contains
+the specified value will be "Pidge".
+
