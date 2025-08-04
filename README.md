@@ -124,3 +124,4 @@ Dark green is used for the highest values, and dark red for the lowest values. T
 ## Icon Sets
 The green traffic light is used for the highest values, yellow for the middle values, and red for the lowest values.
 
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/f7dd316a7ae4dc60c39d40b56ffa3f02bdef4e79/ex71.png)
