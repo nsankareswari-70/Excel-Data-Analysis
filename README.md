@@ -52,4 +52,5 @@ Values = 48 is highlighted with yellow color
 values greater than 65 is highlighted with green background and green text
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/3b66bcebdb663efb7d3c7bcd4976b94f4b94e4e2/ex47.png)
 
+## Highlight Cell Rule - Greater Than Example (with Text)
 
