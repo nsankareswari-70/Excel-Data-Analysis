@@ -26,5 +26,5 @@
 
 ## Resizing the table
 The table has been resized from A1:F12 to A1:F20
-![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/f3e2330a022e45b658d44d3edb39ff013b629980/ex39.png)
+
 
