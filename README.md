@@ -39,3 +39,5 @@ After removing duplicates
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/083207b3f8401249b5b7792b4305bf16c5d1c495/ex43.png)
 
 Lowest value is displayed with red color and the highest value is displayed with green color.
+
+## Highlight Cell Rule =
