@@ -50,4 +50,6 @@ Values = 48 is highlighted with yellow color
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/de59653a6781bbc2c03b6ddf5ebdcc04d80a6178/ex46.png)
 
 values greater than 65 is highlighted with green background and green text
-![image alt](
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/3b66bcebdb663efb7d3c7bcd4976b94f4b94e4e2/ex47.png)
+
+
