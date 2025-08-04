@@ -21,5 +21,5 @@
 ### After sorting
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/d57073e9393a60772358462efee4b2e1db18ca70/ex38.png)
 
-## Excel Filtering (Filtering only the items type1="bug"
+## Excel Filtering (Filtering only the items Type1="Bug"
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/8835fa170909976cdc4cc724992eb1bab5c14c22/ex39.png)
