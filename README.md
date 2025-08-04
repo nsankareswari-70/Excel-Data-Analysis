@@ -119,6 +119,6 @@ The sorting function helps us to verify the top 5 and bottom 5 in a clear way
 ## Color scales
 
 Dark green is used for the highest values, and dark red for the lowest values. The middle values are represented by yellow.
-
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/3aeb7ccdae93f412beea67b8ee32ca920e79861d/ex70.png)
 
 
