@@ -106,4 +106,8 @@ Highlight Cell Rule - A Date Occurring - Next month ( current month = 'August')
 The sorting function helps us to verify the top 5 and bottom 5 in a clear way
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/1e61f14f4f1b6cf7f841268f8d09487be3b18307/ex65.png)
 
+## Below average highlighting with Red above average highlighting with green
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/cd61296216e1d99396aa2bb2b3c2799af262f9db/ex66.png)
+
+
 
