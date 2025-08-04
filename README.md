@@ -103,3 +103,7 @@ Highlight Cell Rule - A Date Occurring - Next month ( current month = 'August')
 ## To find the bottom 5 speed
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/6bc512d94ae0b06cc50c3b4793f2e4e3f6b4e8c5/ex64.png)
 
+The sorting function helps us to verify the top 5 and bottom 5 in a clear way
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/1e61f14f4f1b6cf7f841268f8d09487be3b18307/ex65.png)
+
+
