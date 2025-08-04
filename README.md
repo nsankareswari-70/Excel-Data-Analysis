@@ -59,4 +59,6 @@ values > "Gyarados" wil be highlighed in green.
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/735a6bcd0393e25485c39bde3ae39c8f3a6497a8/ex49.png)
 
 ## Highlight Cell Rules - Less Than
-
+values < 55 in Attack column
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/e747fceb248a70625fdbe46914c3d12ce77dc797/ex49.png)
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/e747fceb248a70625fdbe46914c3d12ce77dc797/ex50.png)
