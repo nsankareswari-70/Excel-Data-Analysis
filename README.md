@@ -96,5 +96,10 @@ Highlight Cell Rule - A Date Occurring - Next month ( current month = 'August')
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/41f32d5e18dcc4095f0cfd79e684fda86ad4d1d9/ex61.png)
 
 ## To find the top 5 speed 
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/6bc512d94ae0b06cc50c3b4793f2e4e3f6b4e8c5/ex62.png)
 
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/6bc512d94ae0b06cc50c3b4793f2e4e3f6b4e8c5/ex63.png)
+
+## To find the bottom 5 speed
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/6bc512d94ae0b06cc50c3b4793f2e4e3f6b4e8c5/ex64.png)
 
