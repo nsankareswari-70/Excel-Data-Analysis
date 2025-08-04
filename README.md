@@ -45,3 +45,6 @@ Lowest value is displayed with red color and the highest value is displayed with
 
 Values = 48 is highlighted with yellow color
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/fc1a8c2406f6ad4de172475162e91b132c51e906/ex45.png)
+
+## Highlight Cell Rule - Greater Than
+
