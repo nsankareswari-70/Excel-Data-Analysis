@@ -29,3 +29,7 @@ The table has been resized from A1:F12 to A1:F20
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/452afcdd7103e37ad1972b06e63358ee00dec9d5/ex40.png)
 
 ## Removing Duplicates
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/b48cfa59900e5af1494fd0cb184bd97890b1c6d0/ex41.png)
+
+After removing duplicates
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/b48cfa59900e5af1494fd0cb184bd97890b1c6d0/ex42.png)
