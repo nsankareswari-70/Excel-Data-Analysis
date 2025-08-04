@@ -77,3 +77,4 @@ values between 79 and 100 is highlighted
 ## Highlight Cell Rules - Text That Contains
 the specified value will be "Pidge".
 
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/bfee4e2b03ffeac1c94385aa9de6044d0b066abc/ex55.png)
