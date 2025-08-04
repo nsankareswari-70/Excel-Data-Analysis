@@ -121,4 +121,6 @@ The sorting function helps us to verify the top 5 and bottom 5 in a clear way
 Dark green is used for the highest values, and dark red for the lowest values. The middle values are represented by yellow.
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/1f7bc3e48b16ffd6058bc6830041980b13c8abc7/ex70.png)
 
+## Icon Sets
+The green traffic light is used for the highest values, yellow for the middle values, and red for the lowest values.
 
