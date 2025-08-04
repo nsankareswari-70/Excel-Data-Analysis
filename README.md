@@ -78,3 +78,7 @@ values between 79 and 100 is highlighted
 the specified value will be "Pidge".
 
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/bfee4e2b03ffeac1c94385aa9de6044d0b066abc/ex55.png)
+
+The Text That Contains... Highlight Cell Rule will highlight cells that have values with any part matching the specified value.
+works for numbers too
+
