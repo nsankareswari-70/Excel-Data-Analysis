@@ -112,7 +112,7 @@ The sorting function helps us to verify the top 5 and bottom 5 in a clear way
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/cd61296216e1d99396aa2bb2b3c2799af262f9db/ex67.png)
 
 ## Data Bars
-![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/cd61296216e1d99396aa2bb2b3c2799af262f9db/ex68.png)
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/fba0040b2f96af7bf83a8037e4203585aabf519d/ex68.png)
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/cd61296216e1d99396aa2bb2b3c2799af262f9db/ex69.png)
 
 
