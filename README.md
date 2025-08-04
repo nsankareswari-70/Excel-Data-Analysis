@@ -33,3 +33,9 @@ The table has been resized from A1:F12 to A1:F20
 
 After removing duplicates
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/b48cfa59900e5af1494fd0cb184bd97890b1c6d0/ex42.png)
+
+## Conditional Formatting.
+
+![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/083207b3f8401249b5b7792b4305bf16c5d1c495/ex43.png)
+
+Lowest value is displayed with red color and the highest value is displayed with green color.
