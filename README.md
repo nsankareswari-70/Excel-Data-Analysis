@@ -58,4 +58,5 @@ values greater than 65 is highlighted with green background and green text
 values > "Gyarados" wil be highlighed in green.
 ![image alt](https://github.com/nsankareswari-70/Excel-Data-Analysis/blob/735a6bcd0393e25485c39bde3ae39c8f3a6497a8/ex49.png)
 
+## Highlight Cell Rules - Less Than
 
